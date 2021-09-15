@@ -1,2 +1,1 @@
-# startup
-Startup Landing Page (test) 
+Startup Landing Page - TravelBud 
